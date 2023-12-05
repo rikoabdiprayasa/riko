@@ -2,7 +2,11 @@
   --primary: #b6895b;
   --bg: #010101;
 }
-
+/* cara update di github 
+    git add .
+    git commit -m "bebas isinya"
+    git push
+*/
 * {
   margin: 0;
   padding: 0;
@@ -59,7 +63,7 @@ body {
 }
 
 .navbar .navbar-nav a:hover {
-  color: #817e7b;
+  color: #f80000;
 }
 
 /* untuk garis dibawah nemu */
