@@ -180,7 +180,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("../IMG/header-bg.jpg-transformed.jpg");
+  background-image: url("../gambar/home222.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -203,7 +203,7 @@ body {
 
 /* ini bagian geser text tadinya paling kiri */
 .hero .content {
-  padding: 1.4rem 7%;
+  padding: 1.7rem 7%;
   max-width: 60rem;
 }
 
@@ -322,7 +322,7 @@ body {
 
 .menu .row .menu-card img {
   border-radius: 50%;
-  width: 80%;
+  width: 45%;
 }
 
 .menu .row .menu-card .menu-card-title {
@@ -371,7 +371,7 @@ body {
 }
 
 .products .product-image img {
-  height: 25rem;
+  height: 15rem;
 }
 
 .products .product-content h3 {
